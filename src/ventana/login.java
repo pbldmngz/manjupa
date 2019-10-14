@@ -27,7 +27,7 @@ public class login extends javax.swing.JFrame {
 
     public static final String URL = "jdbc:mysql://localhost:3306/csm?autoReconnect=true&useSSL=false";
     public static final String mysql_user = "root";
-    public static final String mysql_pass = "1e5nowuo";
+    public static final String mysql_pass = "123456789";
     public static int user_numeric_level = 0;
     public static String user_name;
     public static String user_level;
